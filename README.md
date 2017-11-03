@@ -1,2 +1,1 @@
-# Analog-Watch
-JavaScript practice 
+Analog Watch with JavaScript practice
